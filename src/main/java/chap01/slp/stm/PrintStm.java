@@ -4,7 +4,7 @@ import chap01.slp.expList.ExpList;
 
 public class PrintStm extends Stm {
 
-	ExpList exps;
+	public ExpList exps;
 
 	public PrintStm(ExpList e) {
 		this.exps = e;

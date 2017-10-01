@@ -2,8 +2,8 @@ package chap01.slp.stm;
 
 public class CompoundStm extends Stm {
 
-	Stm stm1;
-	Stm stm2;
+	public Stm stm1;
+	public Stm stm2;
 
 	public CompoundStm(Stm s1, Stm s2) {
 		this.stm1 = s1;
