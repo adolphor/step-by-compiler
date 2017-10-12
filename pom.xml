@@ -5,10 +5,10 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.bob</groupId>
-  <artifactId>tiger</artifactId>
+  <artifactId>compiler</artifactId>
   <packaging>jar</packaging>
   <version>1.0</version>
-  <name>tiger-compiler</name>
-  <description>compiler tutorial</description>
+  <name>compiler</name>
+  <description>compiler studying</description>
 
 </project>
