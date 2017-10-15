@@ -8,7 +8,7 @@
   <artifactId>tiger-book</artifactId>
   <packaging>jar</packaging>
   <version>1.0</version>
-  <name>compiler</name>
+  <name>tiger-book</name>
   <description>compiler tutorial</description>
 
   <build>
